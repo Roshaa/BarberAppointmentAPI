@@ -1,0 +1,18 @@
+schedule:
+  startMorning: 11
+  endMorning: 13
+  startAfternoon: 14
+  endAfternoon: 20
+  minutesInterval: 30
+
+barbers:
+  - barberId: "1"
+    name: "Juan"
+  - barberId: "2"
+    name: "Carlos"
+  - barberId: "3"
+    name: "João"
+  - barberId: "4"
+    name: "John"
+
+daysUpToCreateAppointments: 30
